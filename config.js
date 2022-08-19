@@ -5,9 +5,9 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6283824035969',''] 
+global.owner = ['6283824035969'] 
 global.mods = [''] 
-global.prems = [''] 
+global.prems = ['6283824035969'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ Putra ঔৣ꧂'
